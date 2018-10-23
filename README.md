@@ -4,4 +4,4 @@ Interactive numerical solutions to the Lane-Emden equation for stellar structure
 
 Developed for the exercise sessions of Advanced Stellar Evolution, Aarhus University. 
 
-(Notebook must be downloaded and ran locally to use interactive features.)
+(Notebook must be downloaded and ran locally using Python3 to use interactive features.)
